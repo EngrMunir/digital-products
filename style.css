@@ -1,5 +1,5 @@
 *{
-    margin: 5px;
+    margin: 0px;
     padding: 0px;
 }
 
@@ -9,4 +9,18 @@
 }
 .test1{
     color: chartreuse;
+}
+.container{
+    display: flex;
+}
+.box{
+    padding: 20px;
+    background-color: red;
+    width: 110px;
+}
+.box2{
+    background: green;
+}
+.box3{
+    background-color: blue;
 }
