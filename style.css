@@ -12,6 +12,9 @@
 }
 .container{
     display: flex;
+    justify-content: space-around;
+    align-items:center;
+    flex-direction:row-reverse;
 }
 .box{
     padding: 20px;
